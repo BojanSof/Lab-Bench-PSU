@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PIC16F18854-xSP
+D 8-bit Flash MCU, 32MHz, 7KB Flash, 512B RAM 256B EEPROM, SDIP-28
+K FLASH-Based 8-Bit CMOS Microcontroller Low Power CRC DSM  ADC^2 CLC PLL 32MHz
+F http://ww1.microchip.com/downloads/en/DeviceDoc/PIC16LF18855-75-Data-Sheet-40001802F.pdf
+$ENDCMP
+#
+$CMP PIC16F18855-xSO_copy
+D 8-bit Flash MCU, 32MHz, 14KB Flash, 1024B RAM 256B EEPROM, SOIC-28
+K FLASH-Based 8-Bit CMOS Microcontroller Low Power CRC DSM  ADC^2 CLC PLL 32MHz
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40001802G.pdf
+$ENDCMP
+#
+$CMP PIC16F18855-xSP
+D 8-bit Flash MCU, 32MHz, 14KB Flash, 1024B RAM 256B EEPROM, SDIP-28
+K FLASH-Based 8-Bit CMOS Microcontroller Low Power CRC DSM  ADC^2 CLC PLL 32MHz
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40001802G.pdf
+$ENDCMP
+#
+#End Doc Library

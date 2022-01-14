@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name power_psu)(type Legacy)(uri ${KIPRJMOD}/power_psu.lib)(options "")(descr ""))
+  (lib (name mcu)(type Legacy)(uri ${KIPRJMOD}/mcu.lib)(options "")(descr ""))
+)
