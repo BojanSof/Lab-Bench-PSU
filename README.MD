@@ -3,7 +3,7 @@
 Programmable laboratory bench PSU, consisting of linear regulator and switching
 preregulator.
 
-![lab bench psu](https://github.com/BojanSof/Lab-Bench-PSU/blob/main/images/psu.png)
+![lab bench psu](https://github.com/BojanSof/Lab-Bench-PSU/blob/main/images/psu.jpg)
 
 ## Block diagram
 
